@@ -1,7 +1,11 @@
 #include<stdio.h>
-main(){
 
+#define MAXSIZE 20
+
+
+main(){    
     printf("Hello world!");
+    
 
     return 0;
 }
